@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogish2k
 - 👀 I’m interested in ML based apps,Cloud Computing, App & Web Development
 - 🌱 I’m currently learning -- GKE(Google Kubernetes Engine) with using Docker
-- 💞️ I’m looking to collaborate on ... App Projects
+- 💞️ I’m looking to collaborate on ... Python projects 
 - 📫 How to reach me ---yogish2k@gmail.com
 
 <!---
